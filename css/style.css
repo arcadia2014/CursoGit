@@ -1,5 +1,37 @@
-body{
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blueviolet;
+/* Estilos generales */
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilo para los contenedores */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos específicos para cada contenedor */
+#container1 {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+#container2 {
+    background-color: #28A745;
+    color: #fff;
+}
+#cabecera{
+    background-color: #28A745;
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+
 }
