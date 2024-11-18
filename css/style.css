@@ -27,3 +27,11 @@ body {
     background-color: #28A745;
     color: #fff;
 }
+#cabecera{
+    background-color: #28A745;
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+
+}
