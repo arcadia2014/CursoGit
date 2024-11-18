@@ -1,8 +1,8 @@
 /* Estilos generales */
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #9a3535;
+    color: #23a5ea;
     margin: 0;
     padding: 20px;
 }
@@ -19,12 +19,12 @@ body {
 
 /* Estilos específicos para cada contenedor */
 #container1 {
-    background-color: #007BFF;
-    color: #fff;
+    background-color: #9f07e0;
+    color: #130303;
 }
 
 #container2 {
-    background-color: #28A745;
+    background-color: #05b8d7;
     color: #fff;
 }
 #cabecera{
